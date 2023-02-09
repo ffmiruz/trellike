@@ -163,7 +163,7 @@ body {
 }
 .app-board .board-body .list .card.ohhold {
   border: 2px solid #fff;
-  transform: rotateZ(-2deg);
+  transform: rotateZ(-0deg);
 }
 .app-board .board-body .list .card.anotherCardOnTop {
   margin-top: 5px;
